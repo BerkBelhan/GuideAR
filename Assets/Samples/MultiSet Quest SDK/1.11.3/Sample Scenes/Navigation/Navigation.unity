@@ -1729,6 +1729,63 @@ Transform:
   - {fileID: 693833689}
   m_Father: {fileID: 725614718}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &448816212
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 448816213}
+  - component: {fileID: 448816214}
+  m_Layer: 0
+  m_Name: NavMesh Link
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &448816213
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 448816212}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.24106906, z: -0, w: 0.970508}
+  m_LocalPosition: {x: 62.95233, y: -6.975, z: 11.393067}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1054487380}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &448816214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 448816212}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eeb5dc026fdf4b488bc7ae0138ab719, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.AI.Navigation::Unity.AI.Navigation.NavMeshLink
+  m_SerializedVersion: 1
+  m_AgentTypeID: 0
+  m_StartPoint: {x: -0.000012468969, y: 0, z: -1}
+  m_EndPoint: {x: -0.0000081398575, y: 0, z: 1}
+  m_StartTransform: {fileID: 0}
+  m_EndTransform: {fileID: 0}
+  m_Activated: 1
+  m_Width: 1.5
+  m_CostModifier: 1
+  m_IsOverridingCost: 0
+  m_Bidirectional: 1
+  m_AutoUpdatePosition: 0
+  m_Area: 0
 --- !u!1 &457201100
 GameObject:
   m_ObjectHideFlags: 0
@@ -5677,6 +5734,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 6302465302606224468, guid: 5a35a35fb7f897446b7a98dbd6f7c994, type: 3}
       insertIndex: -1
       addedObject: {fileID: 949797373}
+    - targetCorrespondingSourceObject: {fileID: 6302465302606224468, guid: 5a35a35fb7f897446b7a98dbd6f7c994, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 448816213}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a35a35fb7f897446b7a98dbd6f7c994, type: 3}
 --- !u!4 &1054487380 stripped
