@@ -90,7 +90,7 @@ public class MainMenuManagement : MonoBehaviour
         languageDropdown.choices = new System.Collections.Generic.List<string>
         {
             "English",
-            "Türkçe"
+            "Tï¿½rkï¿½e"
         };
 
         languageDropdown.value = "English";
@@ -120,7 +120,7 @@ public class MainMenuManagement : MonoBehaviour
                 yield break;
             }
 
-            if (lang == "Türkçe" && locale.Identifier.Code == "tr")
+            if (lang == "Tï¿½rkï¿½e" && locale.Identifier.Code == "tr")
             {
                 LocalizationSettings.SelectedLocale = locale;
                 yield break;
