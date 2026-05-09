@@ -101,6 +101,14 @@ MonoBehaviour:
     m_Localized: "\u0130nsan Kaynaklar\u0131"
     m_Metadata:
       m_Items: []
+  - m_Id: 2920015125753856
+    m_Localized: Genel Sekreterlik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2928244002074624
+    m_Localized: "A Blok Asans\xF6r"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

@@ -95,6 +95,14 @@ MonoBehaviour:
     m_Key: HumanResourcesPOI
     m_Metadata:
       m_Items: []
+  - m_Id: 2920015125753856
+    m_Key: SecretaryGenPOI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2928244002074624
+    m_Key: ElevatorABlockPOI
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
