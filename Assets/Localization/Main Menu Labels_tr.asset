@@ -109,6 +109,38 @@ MonoBehaviour:
     m_Localized: "A Blok Asans\xF6r"
     m_Metadata:
       m_Items: []
+  - m_Id: 2941729349730304
+    m_Localized: "A Blok Asans\xF6r Kat 1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2945581243334656
+    m_Localized: Etkinlik Ofisi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946353783799808
+    m_Localized: "Kurumsal \u0130leti\u015Fim"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946998809034752
+    m_Localized: "Dinlenme Alan\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2952442004799488
+    m_Localized: "Kurumsal Geli\u015Fim Ofisi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2953111973560320
+    m_Localized: "\xD6\u011Frenci Dan\u0131\u015Fma Merkezi(SCC)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2954023349682176
+    m_Localized: "\u0130kinci Asans\xF6r A Blok Kat 1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2954874583678976
+    m_Localized: Tuvaletler F (A Blok)
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

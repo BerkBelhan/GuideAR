@@ -103,6 +103,38 @@ MonoBehaviour:
     m_Key: ElevatorABlockPOI
     m_Metadata:
       m_Items: []
+  - m_Id: 2941729349730304
+    m_Key: ElevatorABlockFloor1POI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2945581243334656
+    m_Key: EventsOfficePOI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946353783799808
+    m_Key: CorporateCommunicationsPOI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946998809034752
+    m_Key: LoungePOI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2952442004799488
+    m_Key: InstitutionalDevelopmentOfficePOI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2953111973560320
+    m_Key: StudentCounselingCenterPOI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2954023349682176
+    m_Key: SecondElevatorABlockFloor1POI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2954874583678976
+    m_Key: ToiletsF(ABlock)POI
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

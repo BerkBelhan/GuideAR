@@ -106,6 +106,38 @@ MonoBehaviour:
     m_Localized: Ascenseur du Bloc A
     m_Metadata:
       m_Items: []
+  - m_Id: 2941729349730304
+    m_Localized: "Ascenseur Bloc A \xC9tage 1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2945581243334656
+    m_Localized: "Bureau des \xE9v\xE9nements"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946353783799808
+    m_Localized: Communication institutionnelle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946998809034752
+    m_Localized: Salon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2952442004799488
+    m_Localized: "Bureau du d\xE9veloppement institutionnel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2953111973560320
+    m_Localized: "Centre de conseil aux \xE9tudiants"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2954023349682176
+    m_Localized: "Deuxi\xE8me ascenseur Bloc A \xC9tage 1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2954874583678976
+    m_Localized: Toilettes F (Bloc A)
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
