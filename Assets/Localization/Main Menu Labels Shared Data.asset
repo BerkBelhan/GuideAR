@@ -135,6 +135,34 @@ MonoBehaviour:
     m_Key: ToiletsF(ABlock)POI
     m_Metadata:
       m_Items: []
+  - m_Id: 3333084754685952
+    m_Key: StudentAffairsPOI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3333930548670464
+    m_Key: DeputyGeneralSecretaryPOI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3364287910195200
+    m_Key: DocumentationandRegistryPOI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3365339120218112
+    m_Key: 'ToiletsBBlockLobbyPOI '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3366379919978496
+    m_Key: HumanResourcesPO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3366945274408960
+    m_Key: CafeteriaPOI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3369148743626752
+    m_Key: "FilizAk\u0131nArtExhibitionPOI"
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

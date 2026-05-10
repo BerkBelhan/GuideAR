@@ -140,6 +140,34 @@ MonoBehaviour:
     m_Localized: Toilets F (A Block)
     m_Metadata:
       m_Items: []
+  - m_Id: 3333084754685952
+    m_Localized: Student Affairs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3333930548670464
+    m_Localized: Deputy General Secretary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3364287910195200
+    m_Localized: Documentation and Registry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3365339120218112
+    m_Localized: 'Toilets B Block Lobby '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3366379919978496
+    m_Localized: Human Resources
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3366945274408960
+    m_Localized: Cafeteria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3369148743626752
+    m_Localized: "Filiz Ak\u0131n Art Exhibition"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

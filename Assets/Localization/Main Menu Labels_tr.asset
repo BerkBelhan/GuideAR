@@ -141,6 +141,34 @@ MonoBehaviour:
     m_Localized: Tuvaletler F (A Blok)
     m_Metadata:
       m_Items: []
+  - m_Id: 3333084754685952
+    m_Localized: "\xD6\u011Frenci \u0130\u015Fleri"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3333930548670464
+    m_Localized: "Genel Sekreter Yard\u0131mc\u0131s\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3364287910195200
+    m_Localized: "Yaz\u0131 \u0130\u015Fleri"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3365339120218112
+    m_Localized: Tuvaletler B Block Lobi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3366379919978496
+    m_Localized: "\u0130nsan Kaynaklar\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3366945274408960
+    m_Localized: Yemekhane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3369148743626752
+    m_Localized: "Filiz Ak\u0131n Sanat Salonu"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

@@ -138,6 +138,34 @@ MonoBehaviour:
     m_Localized: Toiletten F (Block A)
     m_Metadata:
       m_Items: []
+  - m_Id: 3333084754685952
+    m_Localized: Studierendenangelegenheiten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3333930548670464
+    m_Localized: "Stellvertretender Generalsekret\xE4r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3364287910195200
+    m_Localized: Dokumentation und Register
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3365339120218112
+    m_Localized: "Toiletten \u2013 Lobby von Block B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3366379919978496
+    m_Localized: Personalabteilung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3366945274408960
+    m_Localized: Mensa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3369148743626752
+    m_Localized: "Filiz-Ak\u0131n-Kunstsaal"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
