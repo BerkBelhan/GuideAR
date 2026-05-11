@@ -138,8 +138,37 @@ MonoBehaviour:
     m_Localized: Toilettes F (Bloc A)
     m_Metadata:
       m_Items: []
+<<<<<<< HEAD
   - m_Id: 3556067361603584
     m_Localized: "Projet de fin d'\xE9tudes"
+=======
+  - m_Id: 3333084754685952
+    m_Localized: "Affaires \xE9tudiantes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3333930548670464
+    m_Localized: "Secr\xE9taire g\xE9n\xE9ral adjoint"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3364287910195200
+    m_Localized: "Documentation et registre\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3365339120218112
+    m_Localized: "Toilettes \u2013 Hall du bloc B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3366379919978496
+    m_Localized: Ressources humaines
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3366945274408960
+    m_Localized: "Caf\xE9t\xE9ria"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3369148743626752
+    m_Localized: "Salle d\u2019art Filiz Ak\u0131n"
+>>>>>>> 87bf45d2bc7f3bbe12fd17a0308a838de8f10805
     m_Metadata:
       m_Items: []
   references:

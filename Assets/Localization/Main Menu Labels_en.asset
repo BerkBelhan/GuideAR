@@ -140,8 +140,37 @@ MonoBehaviour:
     m_Localized: Toilets F (A Block)
     m_Metadata:
       m_Items: []
+<<<<<<< HEAD
   - m_Id: 3556067361603584
     m_Localized: Senior Design Project
+=======
+  - m_Id: 3333084754685952
+    m_Localized: Student Affairs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3333930548670464
+    m_Localized: Deputy General Secretary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3364287910195200
+    m_Localized: Documentation and Registry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3365339120218112
+    m_Localized: 'Toilets B Block Lobby '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3366379919978496
+    m_Localized: Human Resources
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3366945274408960
+    m_Localized: Cafeteria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3369148743626752
+    m_Localized: "Filiz Ak\u0131n Art Exhibition"
+>>>>>>> 87bf45d2bc7f3bbe12fd17a0308a838de8f10805
     m_Metadata:
       m_Items: []
   references:
