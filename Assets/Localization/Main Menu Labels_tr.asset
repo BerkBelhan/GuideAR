@@ -169,6 +169,22 @@ MonoBehaviour:
     m_Localized: "Filiz Ak\u0131n Sanat Salonu"
     m_Metadata:
       m_Items: []
+  - m_Id: 3721668709744640
+    m_Localized: "A Blok 2. Kat Asans\xF6r\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3723818038886400
+    m_Localized: "A Blok 2. Kat \u0130kinci Asans\xF6r\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3724640588038144
+    m_Localized: Tuvaletler F (A Blok 2. Kat)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3725758407802880
+    m_Localized: Otomat A Blok 2. Kat
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

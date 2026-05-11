@@ -166,6 +166,22 @@ MonoBehaviour:
     m_Localized: "Salle d\u2019art Filiz Ak\u0131n"
     m_Metadata:
       m_Items: []
+  - m_Id: 3721668709744640
+    m_Localized: "Ascenseur du bloc A, 2e \xE9tage"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3723818038886400
+    m_Localized: "Deuxi\xE8me ascenseur du bloc A, 2e \xE9tage"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3724640588038144
+    m_Localized: "Toilettes F (bloc A, 2e \xE9tage)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3725758407802880
+    m_Localized: "Distributeur automatique bloc A, 2e \xE9tage"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

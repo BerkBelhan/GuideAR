@@ -163,6 +163,22 @@ MonoBehaviour:
     m_Key: "FilizAk\u0131nArtExhibitionPOI"
     m_Metadata:
       m_Items: []
+  - m_Id: 3721668709744640
+    m_Key: ElevatorABlockFloor2POI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3723818038886400
+    m_Key: SecondElevatorABlockFloor2POI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3724640588038144
+    m_Key: ToiletsF(ABlockFloor2)POI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3725758407802880
+    m_Key: VendingMachineABlockFloor2POI
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

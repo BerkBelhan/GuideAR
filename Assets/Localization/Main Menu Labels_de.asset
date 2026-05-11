@@ -166,6 +166,22 @@ MonoBehaviour:
     m_Localized: "Filiz-Ak\u0131n-Kunstsaal"
     m_Metadata:
       m_Items: []
+  - m_Id: 3721668709744640
+    m_Localized: Aufzug Block A, 2. Etage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3723818038886400
+    m_Localized: Zweiter Aufzug Block A, 2. Etage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3724640588038144
+    m_Localized: Toiletten F (Block A, 2. Etage)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3725758407802880
+    m_Localized: Verkaufsautomat Block A, 2. Etage
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
