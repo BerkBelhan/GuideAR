@@ -185,6 +185,10 @@ MonoBehaviour:
     m_Localized: Otomat A Blok 2. Kat
     m_Metadata:
       m_Items: []
+  - m_Id: 3754434133934080
+    m_Localized: Bitirme Projesi
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

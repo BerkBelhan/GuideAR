@@ -179,6 +179,10 @@ MonoBehaviour:
     m_Key: VendingMachineABlockFloor2POI
     m_Metadata:
       m_Items: []
+  - m_Id: 3754434133934080
+    m_Key: mainMenu.team
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

@@ -4,7 +4,7 @@
         <ui:Label text="GuidAR" enable-rich-text="true" style="height: 49px; -unity-text-align: middle-center; white-space: pre; text-overflow: clip; font-size: 40px; -unity-font-style: bold; -unity-text-outline-color: rgb(255, 255, 255); -unity-text-outline-width: 1px; color: rgb(26, 22, 185);"/>
         <ui:Label text="Senior Design Project" style="font-size: 20px; justify-content: center; align-items: stretch; -unity-text-align: middle-center; height: 18px; -unity-text-outline-width: 1px; -unity-text-outline-color: rgb(26, 22, 185);">
             <Bindings>
-                <UnityEngine.Localization.LocalizedString property="text" table="GUID:8b488bb046c438547a21e8761ec0ecc7" entry="Id(3556067361603584)"/>
+                <UnityEngine.Localization.LocalizedString property="text" table="GUID:8b488bb046c438547a21e8761ec0ecc7" entry="Id(3754434133934080)"/>
             </Bindings>
         </ui:Label>
         <ui:VisualElement style="flex-grow: 1; -unity-text-align: middle-left; white-space: normal; justify-content: space-around; background-color: rgb(153, 153, 153);">

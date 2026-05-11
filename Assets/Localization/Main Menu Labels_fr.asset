@@ -182,6 +182,10 @@ MonoBehaviour:
     m_Localized: "Distributeur automatique bloc A, 2e \xE9tage"
     m_Metadata:
       m_Items: []
+  - m_Id: 3754434133934080
+    m_Localized: "Projet de fin d'\xE9tudes"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

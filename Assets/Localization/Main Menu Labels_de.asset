@@ -182,6 +182,10 @@ MonoBehaviour:
     m_Localized: Verkaufsautomat Block A, 2. Etage
     m_Metadata:
       m_Items: []
+  - m_Id: 3754434133934080
+    m_Localized: Abschlussprojekt
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

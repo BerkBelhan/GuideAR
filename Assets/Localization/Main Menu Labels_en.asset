@@ -184,6 +184,10 @@ MonoBehaviour:
     m_Localized: Vending Machine A Block Floor 2
     m_Metadata:
       m_Items: []
+  - m_Id: 3754434133934080
+    m_Localized: Senior Design Project
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
