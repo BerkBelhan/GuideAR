@@ -141,10 +141,6 @@ MonoBehaviour:
     m_Localized: Tuvaletler F (A Blok)
     m_Metadata:
       m_Items: []
-<<<<<<< HEAD
-  - m_Id: 3556067361603584
-    m_Localized: Bitirme Projesi
-=======
   - m_Id: 3333084754685952
     m_Localized: "\xD6\u011Frenci \u0130\u015Fleri"
     m_Metadata:
@@ -171,7 +167,6 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 3369148743626752
     m_Localized: "Filiz Ak\u0131n Sanat Salonu"
->>>>>>> 87bf45d2bc7f3bbe12fd17a0308a838de8f10805
     m_Metadata:
       m_Items: []
   references:

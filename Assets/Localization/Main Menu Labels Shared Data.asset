@@ -135,11 +135,6 @@ MonoBehaviour:
     m_Key: ToiletsF(ABlock)POI
     m_Metadata:
       m_Items: []
-<<<<<<< HEAD
-<<<<<<< HEAD
-  - m_Id: 3556067361603584
-    m_Key: mainMenu.team
-=======
   - m_Id: 3333084754685952
     m_Key: StudentAffairsPOI
     m_Metadata:
@@ -166,11 +161,8 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 3369148743626752
     m_Key: "FilizAk\u0131nArtExhibitionPOI"
->>>>>>> 87bf45d2bc7f3bbe12fd17a0308a838de8f10805
     m_Metadata:
       m_Items: []
-=======
->>>>>>> parent of 87bf45d (Update on current issues)
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
