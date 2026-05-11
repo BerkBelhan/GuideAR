@@ -136,6 +136,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
 <<<<<<< HEAD
+<<<<<<< HEAD
   - m_Id: 3556067361603584
     m_Key: mainMenu.team
 =======
@@ -168,6 +169,8 @@ MonoBehaviour:
 >>>>>>> 87bf45d2bc7f3bbe12fd17a0308a838de8f10805
     m_Metadata:
       m_Items: []
+=======
+>>>>>>> parent of 87bf45d (Update on current issues)
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
