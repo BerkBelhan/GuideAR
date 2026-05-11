@@ -141,6 +141,10 @@ MonoBehaviour:
     m_Localized: Tuvaletler F (A Blok)
     m_Metadata:
       m_Items: []
+  - m_Id: 3556067361603584
+    m_Localized: Bitirme Projesi
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

@@ -135,6 +135,10 @@ MonoBehaviour:
     m_Key: ToiletsF(ABlock)POI
     m_Metadata:
       m_Items: []
+  - m_Id: 3556067361603584
+    m_Key: mainMenu.team
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

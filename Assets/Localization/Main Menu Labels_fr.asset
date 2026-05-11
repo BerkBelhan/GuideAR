@@ -138,6 +138,10 @@ MonoBehaviour:
     m_Localized: Toilettes F (Bloc A)
     m_Metadata:
       m_Items: []
+  - m_Id: 3556067361603584
+    m_Localized: "Projet de fin d'\xE9tudes"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
