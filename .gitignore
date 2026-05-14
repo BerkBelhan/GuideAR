@@ -73,3 +73,32 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+# --- Android Specific ---
+.gradle/
+build/
+local.properties
+captures/
+output-metadata.json
+*.jks
+*.keystore
+google-services.json
+*.hprof
+crashlytics-build.properties
+
+# --- Build Outputs ---
+*.apk
+*.aab
+*.app
+*.unitypackage
+
+# --- Metadata & Logs ---
+*.log
+sysinfo.txt
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.unitypackage.meta
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
