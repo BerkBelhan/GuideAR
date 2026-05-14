@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Indoor Navigation</string>
+
+    <!-- Auth -->
+    <string name="auth_title">Welcome Back</string>
+    <string name="auth_subtitle">Sign in to your enterprise account</string>
+    <string name="auth_email_hint">Enterprise email</string>
+    <string name="auth_password_hint">Password</string>
+    <string name="auth_sign_in">Sign in</string>
+    <string name="auth_signing_in">Signing in…</string>
+    <string name="auth_error_empty_credentials">Email and password are required</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Indoor Navigation</string>
+    <string name="dashboard_subtitle">Select a venue to navigate</string>
+    <string name="dashboard_recent_locations">Recent Locations</string>
+    <string name="dashboard_available_maps">Available Maps</string>
+    <string name="dashboard_downloaded_maps">Downloaded Maps</string>
+    <string name="dashboard_no_maps">No maps available</string>
+    <string name="dashboard_offline_mode">Offline Mode</string>
+
+    <!-- Map -->
+    <string name="map_title">Indoor Map</string>
+    <string name="map_floor">Floor</string>
+    <string name="map_start_ar">Start AR Navigation</string>
+    <string name="map_localize">Localize</string>
+    <string name="map_tracking">Tracking</string>
+    <string name="map_lost">Lost</string>
+    <string name="map_initializing">Initializing…</string>
+
+    <!-- Downloads -->
+    <string name="downloads_title">Map Downloads</string>
+    <string name="downloads_download">Download</string>
+    <string name="downloads_pause">Pause</string>
+    <string name="downloads_resume">Resume</string>
+    <string name="downloads_delete">Delete</string>
+    <string name="downloads_wifi_only">Wi-Fi only</string>
+    <string name="downloads_storage">Storage used</string>
+
+    <!-- AR -->
+    <string name="ar_title">AR Navigation</string>
+    <string name="ar_point_camera">Point camera at surroundings to localize</string>
+    <string name="ar_tracking">Tracking active</string>
+    <string name="ar_lost">Tracking lost – move camera slowly</string>
+    <string name="ar_stop">Stop AR</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_system">System default</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_localization_interval">Localization interval</string>
+    <string name="settings_battery_optimization">Battery optimization</string>
+    <string name="settings_cache_management">Cache management</string>
+    <string name="settings_sign_out">Sign out</string>
+    <string name="settings_version">Version</string>
+
+    <!-- Errors -->
+    <string name="error_network">Network unavailable</string>
+    <string name="error_auth">Authentication failed</string>
+    <string name="error_localization">Localization failed</string>
+    <string name="error_storage">Insufficient storage</string>
+    <string name="error_unknown">Something went wrong</string>
+    <string name="error_retry">Retry</string>
+    <string name="error_dismiss">Dismiss</string>
+
+    <!-- Permissions -->
+    <string name="permission_camera_rationale">Camera access is required for AR localization and indoor navigation</string>
+    <string name="permission_location_rationale">Location access improves indoor positioning accuracy</string>
+    <string name="permission_notification_rationale">Notifications are used to show download progress</string>
+    <string name="permission_open_settings">Open Settings</string>
+</resources>
